@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620065875670",
+    "project_id": "lets-ride-swarup",
+    "storage_bucket": "lets-ride-swarup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620065875670:android:957105e8cb26e281e5cb77",
+        "android_client_info": {
+          "package_name": "com.lets.ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620065875670-h8eg45jdrgb1i31k11d3068bb1qqd3sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFu2lrp97b9pfIEswfOZ6aFJU4ZaAPQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620065875670-h8eg45jdrgb1i31k11d3068bb1qqd3sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
