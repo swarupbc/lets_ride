@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:lets_ride/screens/HomeScreen.dart';
 import 'package:lets_ride/screens/SignInScreen.dart';
 import 'package:lets_ride/screens/SignUpScree.dart';
+import 'package:lets_ride/widgets/NavigationView.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Let\'s Ride',
-      initialRoute: SignInScreen.id,
+      initialRoute: HomeScreen.id,
       routes: {
         HomeScreen.id: (context) => HomeScreen(),
         SignInScreen.id: (context) => SignInScreen(),
